@@ -1,5 +1,7 @@
 # -redflags_grants
 
+[![Spanish](https://img.shields.io/badge/translation-ES-red)](es/)
+
 # Terms of Use
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
